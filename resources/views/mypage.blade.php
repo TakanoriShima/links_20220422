@@ -64,7 +64,7 @@
     <div class="logout">
       <ul>
          <li>
-          <a href="index.html">ログアウト</a>
+          <a href="/logout">ログアウト</a>
         </li>
       </ul>
     </div>
