@@ -60,7 +60,7 @@
           <th>性別
           </th>
           <th>
-          <input type="radio" name="gender" value="man">男性 
+          <input type="radio" name="gender" value="man" checked>男性 
           <input type="radio" name="gender" value="woman">女性
           </th>
           <tr>

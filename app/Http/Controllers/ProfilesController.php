@@ -92,7 +92,8 @@ class ProfilesController extends Controller
      */
     public function show(Profile $profile)
     {
-        //
+        // dd('profile show');
+        return view('profiles.show', compact('profile'));
     }
 
     /**

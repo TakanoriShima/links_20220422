@@ -73,7 +73,7 @@
     <img id="img" src="images/profilesample.png" alt="プロフィール">
   </div>
   <div>
-    <a href="myprofile.html">プロフィールを見る</a>
+    <a href="/profiles/{{ \Auth::id() }}">プロフィールを見る</a>
   </div>
   <div class="gr">
    <div>
